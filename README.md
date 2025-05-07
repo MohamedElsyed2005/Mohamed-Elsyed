@@ -1,4 +1,4 @@
-# Hi 👋! My name is **Mohamed Elsyed** and I'm an AI & Data Science Enthusiast.
+# Hi👋! My name is **Mohamed Elsyed** and I'm an Intelligent  Systems Enthusiast.
 
 ## 🚀 About Me
 
@@ -12,12 +12,12 @@ I'm passionate about Artificial Intelligence, with a strong focus on:
 
 ## 💡 Skills
 
-* Programming Languages: Python, C, C++.
+* Programming Languages: Python,Java.
 * Machine Learning: Scikit-Learn, TensorFlow, Keras, PyTorch.
 * Computer Vision: Scikit-Image, OpenCV.
 * Data Science: Pandas, NumPy, Matplotlib, Seaborn.
 * Optimization Techniques: Linear and Non-Linear Programming.
-* IDEs: Jupyter Notebook, VS Code.
+* IDEs: Jupyter Notebook, VS Code, Spyder.
 
 ## 🛠️ I Code With
 
